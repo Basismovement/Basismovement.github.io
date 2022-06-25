@@ -22,7 +22,7 @@ let playcheck = 0;
 let button;
 
 function preload(){
-  myFont = loadFont('assets/prStartk.ttf');
+  myFont = loadFont('assets/prstartk.ttf');
 }
 
 function setup() {
